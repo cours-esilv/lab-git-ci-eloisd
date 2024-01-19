@@ -55,11 +55,9 @@ Clone the newly copied repo on your computer
 ### 1.3 : Make a commit 
 In your repo, edit the identity.md file and fill it with your personal data (first and last name).
 
-<<<<<<< HEAD
+
 Commit and push changes made to the file
-=======
-Commit and pushe changes made to the file
->>>>>>> origin/snape
+
 > Commits are not optional. **Commit at least as soon as the statement asks you to**.
 
 > ⚠️ **ANSWER**: Create a file called `1.3` containing the commands you used to commit and push your changes.
